@@ -1,6 +1,7 @@
 # Portfolio Projects
 ## Following are my projects in Power Bi and Tableau:
-You can take a look at my Linkedin : -<a href="www.linkedin.com/in/sharafatahmed"></a>
+You can take a look at my Linkedin : 
+-<a href="www.linkedin.com/in/sharafatahmed"></a>
 
 
 
