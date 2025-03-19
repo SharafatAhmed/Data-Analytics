@@ -3,7 +3,8 @@
 
 This project is a Power BI dashboard that analyzes sales and shipment data across different countries and product categories. The goal is to identify sales trends, top-performing products, and shipment distribution while creating interactive visualizations for better data-driven decision-making.
 
-## Data Set Used : - <a href="https://github.com/SharafatAhmed/Data-Analytics/blob/main/sample-data_creating-BI.xlsx">Dataset</a>
+## Data Set Used : 
+- <a href="https://github.com/SharafatAhmed/Data-Analytics/blob/main/sample-data_creating-BI.xlsx">Dataset</a>
 
 ## Features
 
@@ -16,3 +17,9 @@ DAX Calculations: Used DAX functions to generate calculated columns and measures
 Data Modeling: Established relationships between tables for effective data connections.
 
 User-Friendly Filters: Implemented slicers for interactive data exploration.
+
+## Dashboard :
+- <a href="https://github.com/SharafatAhmed/Data-Analytics/commit/6d168e7b48e0730829d2ca1a7e4ee6300f359d0b">Dashboard</a>
+
+## Power Bi Report Publish :
+
