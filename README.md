@@ -1,7 +1,7 @@
 # Portfolio Projects
 ## Following are my projects in Power Bi and Tableau:
 You can take a look at my Linkedin : 
--<a href="www.linkedin.com/in/sharafatahmed"></a>
+- <a href="www.linkedin.com/in/sharafatahmed">Linkedin</a>
 
 
 
@@ -57,8 +57,7 @@ This project marks the beginning of my journey in data analytics using Power BI.
 This project showcases an interactive Tableau dashboard analyzing U.S. sales data across different product categories. The goal is to uncover insights into sales trends, geographical performance, and revenue distribution to aid in data-driven decision-making.
 ![Screenshot 2025-03-15 005025](https://github.com/user-attachments/assets/132fcbe2-fb81-4889-9a63-81972e2ba6a4)
 
-## Data Set Used : 
-- <a href="https://github.com/SharafatAhmed/Data-Analytics/blob/main/Sample%20-%20Superstore.xls"></a>
+## Data Set Used : - <a href="https://github.com/SharafatAhmed/Data-Analytics/blob/main/Sample%20-%20Superstore.xls">Dataset</a>
 
 ## Features
 Data Import & Preparation: Cleaned and structured sales data for accuracy.
