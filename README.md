@@ -75,21 +75,21 @@ Category-Level Analysis: Broke down sales by category and sub-category for deepe
 
 
 ## Dashboards
-1. Monthly Sales Trends
+Monthly Sales Trends
 Visualization: Area Chart
 Insights: Shows sales fluctuations throughout the year.
 Key Findings: Identified seasonal peaks, particularly in the last quarter, indicating higher consumer spending during the holiday season.
 
 ![1st](https://github.com/user-attachments/assets/351d6381-ff2c-4f56-b866-f614a2f5ac43)
 
-3. Profit Map
+Profit Map
 Visualization: Geographical Profit Map
 Insights: Displays sales and profit distribution across U.S. states.
 Key Findings: California emerged as the most profitable state, while some regions had negative profits, highlighting potential inefficiencies.
 
 ![2nd](https://github.com/user-attachments/assets/084cf9a6-ec8d-4148-8a0c-3f334e594c23)
 
-5. Sales by Category and Sub-Category
+Sales by Category and Sub-Category
 Visualization: Horizontal Bar Chart
 Insights: Breaks down sales figures for different product categories.
 Key Findings: Technology products, especially Phones and Accessories, were top revenue drivers, while certain Office Supplies had lower sales figures.
