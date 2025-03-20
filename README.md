@@ -15,9 +15,13 @@ This project is a Power BI dashboard that analyzes sales and shipment data acros
 
 ## Features
 Data Import & Transformation: Cleaned and processed sales and shipment data using Power Query.
+
 Interactive Dashboard: Created dynamic visualizations to explore sales trends.
+
 DAX Calculations: Used DAX functions to generate calculated columns and measures.
+
 Data Modeling: Established relationships between tables for effective data connections.
+
 User-Friendly Filters: Implemented slicers for interactive data exploration.
 
 ## Dashboard :
@@ -78,7 +82,9 @@ Category-Level Analysis: Broke down sales by category and sub-category for deepe
 Monthly Sales Trends:
 
 Visualization: Area Chart
+
 Insights: Shows sales fluctuations throughout the year.
+
 Key Findings: Identified seasonal peaks, particularly in the last quarter, indicating higher consumer spending during the holiday season.
 
 ![1st](https://github.com/user-attachments/assets/351d6381-ff2c-4f56-b866-f614a2f5ac43)
@@ -86,7 +92,9 @@ Key Findings: Identified seasonal peaks, particularly in the last quarter, indic
 Profit Map :
 
 Visualization: Geographical Profit Map
+
 Insights: Displays sales and profit distribution across U.S. states.
+
 Key Findings: California emerged as the most profitable state, while some regions had negative profits, highlighting potential inefficiencies.
 
 ![2nd](https://github.com/user-attachments/assets/084cf9a6-ec8d-4148-8a0c-3f334e594c23)
@@ -94,7 +102,9 @@ Key Findings: California emerged as the most profitable state, while some region
 Sales by Category and Sub-Category :
 
 Visualization: Horizontal Bar Chart
+
 Insights: Breaks down sales figures for different product categories.
+
 Key Findings: Technology products, especially Phones and Accessories, were top revenue drivers, while certain Office Supplies had lower sales figures.
 
 ![3rd](https://github.com/user-attachments/assets/aa6d248a-2cfd-4d04-abe8-ec28c258bc1e)
